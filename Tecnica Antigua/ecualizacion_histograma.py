@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-def calculate_histogram(img):
+def calculate_histogram(img): 
     hist = np.zeros(256, dtype=int)
 
     # Calcular el histograma
