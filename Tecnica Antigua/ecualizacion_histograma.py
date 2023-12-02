@@ -22,10 +22,8 @@ def cumulative_distribution_function(hist):
     return cdf
 
 def histogram_equalization(img):
-    # Obtener el histograma de la imagen original
     hist = calculate_histogram(img)
 
-    # Calcular la función de distribución acumulativa (CDF)
     cdf = cumulative_distribution_function(hist)
 
     # Normalizar la CDF para estar en el rango [0, 1]
@@ -40,23 +38,18 @@ def histogram_equalization(img):
 
     return equalized_img.astype(np.uint8)
 
-# Cargar tu propia imagen
-img_path = "filtered_image.jpg"
-img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
 
-# Aplicar la ecualización de histogramas
+img_path = "image-test2.jpg"
+img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
 equalized_img = histogram_equalization(img)
 
-# Mostrar las imágenes original y ecualizada
 cv2.namedWindow('Original', cv2.WINDOW_NORMAL)
 cv2.namedWindow('Ecualizacion de Histogramas', cv2.WINDOW_NORMAL)
 
 cv2.imshow('Original', img)
 cv2.imshow('Ecualizacion de Histogramas', equalized_img)
 
-# Guardar la imagen ecualizada
-output_path = 'equalized_image.jpg'
+output_path = 'img_equalizada.jpg'
 cv2.imwrite(output_path, equalized_img)
-
 cv2.waitKey(0)
 cv2.destroyAllWindows()
