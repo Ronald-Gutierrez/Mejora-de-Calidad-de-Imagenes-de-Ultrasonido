@@ -21,7 +21,7 @@ def calcular_psnr(imagen_original, imagen_comprimida, max_pixel_value=255):
     psnr = 20 * log10(max_pixel_value / sqrt(mse))
     return psnr
 
-ruta_imagen_original = "img_original.jpg"
+ruta_imagen_original = "image-test2-1106 x 670.jpg"
 ruta_imagen_comprimida = "img_mejorada.jpg"
 imagen_original = cargar_imagen(ruta_imagen_original)
 imagen_comprimida = cargar_imagen(ruta_imagen_comprimida)

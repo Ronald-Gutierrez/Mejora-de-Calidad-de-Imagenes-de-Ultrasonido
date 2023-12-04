@@ -21,7 +21,7 @@ def cumulative_distribution_function(hist):
 
     return cdf
 
-def histogram_equalization(img):
+def histogram_equalization(img, intensity_factor=1.0):
     hist = calculate_histogram(img)
 
     cdf = cumulative_distribution_function(hist)
@@ -34,14 +34,16 @@ def histogram_equalization(img):
 
     for i in range(img.shape[0]):
         for j in range(img.shape[1]):
-            equalized_img[i, j] = int(cdf_normalized[img[i, j]] * 255)
+            equalized_img[i, j] = int(cdf_normalized[img[i, j]] * 255 * intensity_factor)
 
     return equalized_img.astype(np.uint8)
 
-
-img_path = "image-test2.jpg"
+img_path = "img_original.jpg"
 img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
-equalized_img = histogram_equalization(img)
+
+# Ajusta la intensidad máxima aquí (por ejemplo, 0.8 significa el 80% de la intensidad máxima)
+intensity_factor = 1
+equalized_img = histogram_equalization(img, intensity_factor)
 
 cv2.namedWindow('Original', cv2.WINDOW_NORMAL)
 cv2.namedWindow('Ecualizacion de Histogramas', cv2.WINDOW_NORMAL)

@@ -1,0 +1,30 @@
+﻿RESULTADOS DE LA TÉCNICA ANTIGUA
+
+Valor de MSE y PSNR para el filtro mediano después del cambio de kernel
+
+
+Tamaño de del kernel	        MSE                       PSNR(dB)
+	3x3            0.8098599857048019            49.04670419386665
+	5x5            1.1194736221210095            47.64066496005343
+	9x9            4.275137458276758             41.82130277730887
+	
+
+MSE y PSNR de los métodos de procesamiento
+
+
+	Tipo de mejora                             	MSE                     PSNR(dB)
+	Filtro Medio           			0.8098599857048019            49.04670419386665
+	Filtro Gausiano        			2.324136678748962             44.46818696236952
+	Ecualización de Histograma    		102.50366516852372   	      28.023409663638752
+	
+	Imagen procesada final			103.07708766564966            27.99918221348042
+	
+
+Valor MSE y PSNR de la imagen final
+
+
+RESULTADOS DE LA TÉCNICA NUEVA
+
+
+	Tipo de mejora		MSE                    PSNR(dB)
+	Real-ESRGAN          11.107943105449246      37.674467142272775
