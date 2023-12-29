@@ -1,0 +1,203 @@
+Para j1.jpg:
+  - El valor de MSE es: 3.148271484375
+  - El valor de PSNR es: 43.15008185121724 dB
+
+Para j2.jpg:
+  - El valor de MSE es: 3.363844401041667
+  - El valor de PSNR es: 42.862444621284425 dB
+
+Para j3.jpg:
+  - El valor de MSE es: 3.475436197916667
+  - El valor de PSNR es: 42.72071040730371 dB
+
+Para j4.jpg:
+  - El valor de MSE es: 3.1318359375
+  - El valor de PSNR es: 43.17281357579282 dB
+
+Para j5.jpg:
+  - El valor de MSE es: 2.899469401041667
+  - El valor de PSNR es: 43.507618309976365 dB
+
+Para j6.jpg:
+  - El valor de MSE es: 3.7851302083333334
+  - El valor de PSNR es: 42.34999537061405 dB
+
+Para j7.jpg:
+  - El valor de MSE es: 3.600244140625
+  - El valor de PSNR es: 42.567484086197524 dB
+
+Para j8.jpg:
+  - El valor de MSE es: 3.5537109375
+  - El valor de PSNR es: 42.62398261921487 dB
+
+Para j9.jpg:
+  - El valor de MSE es: 3.6993196614583335
+  - El valor de PSNR es: 42.449585001637175 dB
+
+Para j10.jpg:
+  - El valor de MSE es: 3.670234375
+  - El valor de PSNR es: 42.48386562414424 dB
+
+Para j11.jpg:
+  - El valor de MSE es: 3.5560677083333334
+  - El valor de PSNR es: 42.62110339425864 dB
+
+Para j12.jpg:
+  - El valor de MSE es: 3.3020833333333335
+  - El valor de PSNR es: 42.94292331689728 dB
+
+Para j13.jpg:
+  - El valor de MSE es: 6.405950520833334
+  - El valor de PSNR es: 40.064967809909405 dB
+
+Para j14.jpg:
+  - El valor de MSE es: 6.693577473958333
+  - El valor de PSNR es: 39.874220664284486 dB
+
+Para j15.jpg:
+  - El valor de MSE es: 6.41966796875
+  - El valor de PSNR es: 40.05567794336237 dB
+
+Para j16.jpg:
+  - El valor de MSE es: 5.99349609375
+  - El valor de PSNR es: 40.354001342541494 dB
+
+Para j17.jpg:
+  - El valor de MSE es: 5.899889322916667
+  - El valor de PSNR es: 40.4223649615753 dB
+
+Para j18.jpg:
+  - El valor de MSE es: 5.960485026041667
+  - El valor de PSNR es: 40.377987595902894 dB
+
+Para j19.jpg:
+  - El valor de MSE es: 6.2789518229166665
+  - El valor de PSNR es: 40.151932100474525 dB
+
+Para j20.jpg:
+  - El valor de MSE es: 6.258681640625
+  - El valor de PSNR es: 40.165974999419085 dB
+
+Para j21.jpg:
+  - El valor de MSE es: 7.264781901041666
+  - El valor de PSNR es: 39.51857780168612 dB
+
+Para j22.jpg:
+  - El valor de MSE es: 7.508912760416667
+  - El valor de PSNR es: 39.37503302203859 dB
+
+Para j23.jpg:
+  - El valor de MSE es: 6.925299479166667
+  - El valor de PSNR es: 39.726418019996885 dB
+
+Para j24.jpg:
+  - El valor de MSE es: 7.4021484375
+  - El valor de PSNR es: 39.43722570984151 dB
+
+Para j25.jpg:
+  - El valor de MSE es: 6.938460286458334
+  - El valor de PSNR es: 39.718172539986114 dB
+
+Para j26.jpg:
+  - El valor de MSE es: 7.350478515625
+  - El valor de PSNR es: 39.46764748323733 dB
+
+Para j27.jpg:
+  - El valor de MSE es: 7.225260416666667
+  - El valor de PSNR es: 39.54226856085257 dB
+
+Para j28.jpg:
+  - El valor de MSE es: 6.947291666666667
+  - El valor de PSNR es: 39.71264828718056 dB
+
+Para j29.jpg:
+  - El valor de MSE es: 6.793824869791667
+  - El valor de PSNR es: 39.80966013368254 dB
+
+Para j30.jpg:
+  - El valor de MSE es: 7.764700520833333
+  - El valor de PSNR es: 39.22955650920229 dB
+
+Para j31.jpg:
+  - El valor de MSE es: 7.437545572916667
+  - El valor de PSNR es: 39.416507210213084 dB
+
+Para j32.jpg:
+  - El valor de MSE es: 6.925299479166667
+  - El valor de PSNR es: 39.726418019996885 dB
+
+Para j33.jpg:
+  - El valor de MSE es: 7.609560546875
+  - El valor de PSNR es: 39.3172078393676 dB
+
+Para j34.jpg:
+  - El valor de MSE es: 7.4021484375
+  - El valor de PSNR es: 39.43722570984151 dB
+
+Para j35.jpg:
+  - El valor de MSE es: 7.087734375
+  - El valor de PSNR es: 39.62572927614392 dB
+
+Para j36.jpg:
+  - El valor de MSE es: 6.147415364583333
+  - El valor de PSNR es: 40.24387802627136 dB
+
+Para j37.jpg:
+  - El valor de MSE es: 4.57798828125
+  - El valor de PSNR es: 41.52405684236457 dB
+
+Para j38.jpg:
+  - El valor de MSE es: 3.972994791666667
+  - El valor de PSNR es: 42.13962365143509 dB
+
+Para j39.jpg:
+  - El valor de MSE es: 3.9418229166666667
+  - El valor de PSNR es: 42.17383250828584 dB
+
+Para j40.jpg:
+  - El valor de MSE es: 3.9393359375
+  - El valor de PSNR es: 42.17657342845895 dB
+
+Para j41.jpg:
+  - El valor de MSE es: 3.694794921875
+  - El valor de PSNR es: 42.454900228108784 dB
+
+Para j42.jpg:
+  - El valor de MSE es: 3.570296223958333
+  - El valor de PSNR es: 42.6037611027576 dB
+
+Para j43.jpg:
+  - El valor de MSE es: 5.9409798177083335
+  - El valor de PSNR es: 40.392222838443274 dB
+
+Para j44.jpg:
+  - El valor de MSE es: 6.154638671875
+  - El valor de PSNR es: 40.238777995253656 dB
+
+Para j45.jpg:
+  - El valor de MSE es: 6.079296875
+  - El valor de PSNR es: 40.29227008727726 dB
+
+Para j46.jpg:
+  - El valor de MSE es: 5.838916015625
+  - El valor de PSNR es: 40.46748132270663 dB
+
+Para j47.jpg:
+  - El valor de MSE es: 6.198232421875
+  - El valor de PSNR es: 40.20812503445892 dB
+
+Para j48.jpg:
+  - El valor de MSE es: 5.987760416666666
+  - El valor de PSNR es: 40.35815945917207 dB
+
+Para j49.jpg:
+  - El valor de MSE es: 5.2863997395833335
+  - El valor de PSNR es: 40.899203609576944 dB
+
+Para j50.jpg:
+  - El valor de MSE es: 5.37283203125
+  - El valor de PSNR es: 40.82877097265811 dB
+
+Promedio General:
+  - El valor de MSE promedio es: 5.527669986979167
+  - El valor de PSNR promedio es: 40.89963337653009 dB
