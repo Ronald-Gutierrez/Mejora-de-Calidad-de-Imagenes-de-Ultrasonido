@@ -61,8 +61,8 @@ plt.figure(figsize=(15, 5))
 
 # Gráfico para MSE
 plt.subplot(1, 2, 1)
-plt.plot(mse_valores_esrgan, marker='o', linestyle='-', color='b', label='ESRGAN')
-plt.plot(mse_valores_result, marker='o', linestyle='-', color='r', label='Result')
+plt.plot(mse_valores_esrgan, marker='o', linestyle='-', color='b', label='Filtros Tradicionales')
+plt.plot(mse_valores_result, marker='o', linestyle='-', color='r', label=' ESRGAN')
 plt.title('MSE')
 plt.xlabel('Imagenes')
 plt.ylabel('Valor de MSE')
@@ -70,8 +70,8 @@ plt.legend()
 
 # Gráfico para PSNR
 plt.subplot(1, 2, 2)
-plt.plot(psnr_valores_esrgan, marker='o', linestyle='-', color='b', label='ESRGAN')
-plt.plot(psnr_valores_result, marker='o', linestyle='-', color='r', label='Result')
+plt.plot(psnr_valores_esrgan, marker='o', linestyle='-', color='b', label=' Filtros Tradicionales')
+plt.plot(psnr_valores_result, marker='o', linestyle='-', color='r', label='ESRGANs')
 plt.title('PSNR')
 plt.xlabel('Imagenes')
 plt.ylabel('Valor de PSNR en decibelios (dB)')
